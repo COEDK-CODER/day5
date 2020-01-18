@@ -3,7 +3,7 @@
 begin 
 
 puts "1.Addtion \n 2.Subraction \n 3.Multiplication \n 4.Division\n 5.Power\n 6.exit"
-	puts "choose the operation"
+	puts "choose the operatio n" 
 	ch=gets.chomp.to_i
 	if ch!=6
 		puts "enter the number 1"
